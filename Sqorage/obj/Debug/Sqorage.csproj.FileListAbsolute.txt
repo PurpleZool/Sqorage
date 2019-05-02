@@ -1,0 +1,16 @@
+D:\WorkSpace\Sqorage\Sqorage\obj\Debug\Sqorage.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\Sqorage.dll.config
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\Sqorage.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\Sqorage.pdb
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpace\Sqorage\Sqorage\bin\Debug\System.Data.SQLite.dll.config
+D:\WorkSpace\Sqorage\Sqorage\obj\Debug\Sqorage.csproj.CopyComplete
+D:\WorkSpace\Sqorage\Sqorage\obj\Debug\Sqorage.dll
+D:\WorkSpace\Sqorage\Sqorage\obj\Debug\Sqorage.pdb
