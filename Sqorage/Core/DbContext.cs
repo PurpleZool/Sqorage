@@ -42,5 +42,12 @@ namespace Sqorage.Core
 
             return db;
         }
+
+        public DbContext(string sqliteFilePath)
+        {
+            DBName = sqliteFilePath;
+
+        }
+
     }
 }
